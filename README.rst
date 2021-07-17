@@ -1,7 +1,7 @@
 play-music
 =============
 
-play-music is a Python library for manipulating WAV files or Numpy Arrays
+play-music is a PyPi library which allows you to play wav files or numpy arrays
 
 Installation
 ------------
